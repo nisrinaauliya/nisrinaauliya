@@ -6,7 +6,7 @@
 #### 🙋🏻‍♀️ About Me
 - 🌱 Currently learning: Laravel & Web Development
 - 💡 Interested in: Backend & System Development
-- 📌 Focus on building useful projects
+<!-- - 📌 Focus on building useful projects -->
 
 #### 🛠️ Tech Stack
 <p>
@@ -18,13 +18,13 @@
 </p>
 
 #### 📊 Github Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nisrinaauliya&show_icons=true&theme=omni" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisrinaauliya&layout=compact&theme=omni" height="180"/>
+<p allign="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nisrinaauliya&show_icons=true&theme=omni&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisrinaauliya&layout=compact&theme=omni&hide_border=true" width="45%" />
 </p>
 
-<!-- ![Nisrina Auliya Muthmainnah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisrinaauliya&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisrinaauliya&layout=compact&theme=omni) -->
+<!-- ![Nisrina Auliya Muthmainnah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisrinaauliya&show_icons=true&theme=omni&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisrinaauliya&layout=compact&theme=omni&hide_border=true) -->
 
 #### 📫 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nisrinaauliya)
