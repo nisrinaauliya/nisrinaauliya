@@ -1,14 +1,14 @@
 # Hello 👋🏻👩🏻‍💻
-##### I'm Nisrina Auliya
+### I'm Nisrina Auliya
 
 🎓 Final Year | Information System
 
-### 🙋🏻‍♀️ About Me
+#### 🙋🏻‍♀️ About Me
 - 🌱 Currently learning: Laravel & Web Development
 - 💡 Interested in: Backend & System Development
 - 📌 Focus on building simple & useful projects
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 - 💻 HTML, CSS, JavaScript
 - ⚙️ PHP (Laravel)
 - 🗄️ MySQL
