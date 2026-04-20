@@ -1,4 +1,7 @@
 # Hello 👋🏻👩🏻‍💻
+
+![Profile Views](https://komarev.com/ghpvc/?username=nisrinaauliya&color=CA5995&style=for-the-badge)
+
 ### I'm Nisrina Auliya
 
 🎓 Final Year | Information System
