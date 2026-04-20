@@ -7,8 +7,8 @@
 🎓 Final Year | Information System
 
 #### 🙋🏻‍♀️ About Me
-🌱 Currently learning: Laravel & Web Development
-💡 Interested in: Backend & System Development
+- 🌱 Currently learning: Laravel & Web Development
+- 💡 Interested in: Backend & System Development
 <!-- - 📌 Focus on building useful projects -->
 
 #### 🛠️ Tech Stack
