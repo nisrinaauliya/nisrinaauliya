@@ -18,11 +18,11 @@
 </p>
 
 #### 📊 Github Stats
-![Nisrina Auliya Muthmainnah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisrinaauliya&show_icons=true&theme=radical&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisrinaauliya&layout=compact&theme=radical&card_width=400)
+![Nisrina Auliya Muthmainnah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisrinaauliya&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisrinaauliya&layout=compact&theme=radical)
 
 #### 📫 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nisrinaauliya)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nisrinaauliya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisrina-auliya-muthmainnah)
 
 <!--
