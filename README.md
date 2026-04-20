@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hello 👋🏻👩🏻‍💻
+##### I'm Nisrina Auliya
+
+🎓 Final Year | Information System
+
+### 🙋🏻‍♀️ About Me
+🌱 Currently learning: Laravel & Web Development
+💡 Interested in: Backend & System Development
+📌 Focus on building simple & useful projects
+
+### 🛠️ Tech Stack
+💻 HTML, CSS, JavaScript
+⚙️ PHP (Laravel)
+🗄️ MySQL
+
+### 📊 GitHub Stats
+
+
+### 📫 Connect with me
+✉️ Email: 
+💼 LinkedIn: 
 
 <!--
 **nisrinaauliya/nisrinaauliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
