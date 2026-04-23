@@ -8,7 +8,7 @@
 
 #### 🙋🏻‍♀️ About Me
 - 🌱 Currently learning: Laravel & Web Development
-<!-- - 💡 Interested in: Backend & System Development -->
+- 💡 Interested in: Backend & System Development
 <!-- - 📌 Focus on building useful projects -->
 
 #### 🛠️ Tech Stack
