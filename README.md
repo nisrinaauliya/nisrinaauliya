@@ -23,7 +23,7 @@
 #### 📊 Github Stats
 <p allign="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nisrinaauliya&show_icons=true&theme=omni&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisrinaauliya&layout=compact&theme=omni&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisrinaauliya&layout=compact&theme=omni&hide_border=true" width="50%" />
 </p>
 
 <!-- ![Nisrina Auliya Muthmainnah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisrinaauliya&show_icons=true&theme=omni&hide_border=true)
